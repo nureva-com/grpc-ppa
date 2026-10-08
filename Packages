@@ -1,0 +1,316 @@
+Package: libabsl-dev
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: amd64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 6791
+Depends: libabsl20230802t64 (= 1:1.59.3-nureva2)
+Filename: ./libabsl-dev_1.59.3-nureva2_amd64.deb
+Size: 1146528
+MD5sum: 19f3114677401bf7b0148352ab9374fe
+SHA1: 42a28ea49afcdb96a4fa23f46cb87fa08940d21d
+SHA256: 452e80d072ec887b8866d8ddca8cd07a9e6a6fd3a555cab2a61012d036e4cbb0
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: Abseil C++ libraries - development files
+ Abseil is an open-source collection of C++ libraries drawn from the Google
+ internal code base. This package contains headers and development metadata
+ matching the runtime libraries.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libabsl-dev
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: arm64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 6802
+Depends: libabsl20230802t64 (= 1:1.59.3-nureva2)
+Filename: ./libabsl-dev_1.59.3-nureva2_arm64.deb
+Size: 1145666
+MD5sum: 2efa1efdf4449aae0a05a970f124211e
+SHA1: 310a87e1dba2447b2318341bfd3ab82114f62962
+SHA256: f8049ae359665b9eb57ca87aef18f8e27b57abbacc406badc77152a1e3d5bb2c
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: Abseil C++ libraries - development files
+ Abseil is an open-source collection of C++ libraries drawn from the Google
+ internal code base. This package contains headers and development metadata
+ matching the runtime libraries.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libabsl20230802t64
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: arm64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 6074
+Depends: libc6:arm64 (>= 2.39), libgcc-s1, libstdc++6:arm64
+Filename: ./libabsl20230802t64_1.59.3-nureva2_arm64.deb
+Size: 490662
+MD5sum: f77a3917ec680470beaa7276ad0cbabc
+SHA1: 51d13a0476dd53a51301d211692118775ad446ba
+SHA256: 562e8cbdbf9c4d7c1217f060a08d86a5c455d4a7ca7c0cf600ac00ab1b73fbd1
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: Abseil C++ libraries - runtime
+ Abseil is an open-source collection of C++ libraries drawn from the Google
+ internal code base. This package contains the runtime shared libraries.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libabsl20230802t64
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: amd64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 2328
+Depends: libc6 (>= 2.38), libgcc-s1, libstdc++6 (>= 13.1)
+Filename: ./libabsl20230802t64_1.59.3-nureva2_amd64.deb
+Size: 497448
+MD5sum: 88d2864d4e4d424e414179d0e5673137
+SHA1: e81e6b67ede0471c51de942c68e372b41bd7231b
+SHA256: a9dc4b9e37c20cde98b3c74dc288d483e3d9f398f5387f620a0c4a62ab79d8d2
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: Abseil C++ libraries - runtime
+ Abseil is an open-source collection of C++ libraries drawn from the Google
+ internal code base. This package contains the runtime shared libraries.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libgrpc
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: amd64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 19005
+Depends: libabsl20230802t64 (>= 1:1.59.3-nureva2), libc6 (>= 2.38), libgcc-s1, libssl3t64 (>= 3.0.0), libstdc++6 (>= 13.1), libsystemd0 (>= 233)
+Filename: ./libgrpc_1.59.3-nureva2_amd64.deb
+Size: 5227252
+MD5sum: 87ea5869b6d18acc1bfa5b3f351bcdb4
+SHA1: 3678d36ee05c360862da1ae2bbd56ebdc3f3924f
+SHA256: 86fc1a87df01a673e0109b39fcd1db8b38577a44af76e91eec22ac063f451127
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: High performance, open source, general RPC framework - runtime
+ gRPC is a modern, open source, high-performance remote procedure call (RPC)
+ framework that can run anywhere.  This package contains the shared libraries.
+ .
+ This package provides the gRPC C bindings.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libgrpc
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: arm64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 18819
+Depends: libabsl20230802t64 (>= 1:1.59.3-nureva2), libc6 (>= 2.38), libc6:arm64 (>= 2.39), libgcc-s1, libssl3t64 (>= 3.0.0), libstdc++6:arm64, libsystemd0 (>= 233)
+Filename: ./libgrpc_1.59.3-nureva2_arm64.deb
+Size: 5029794
+MD5sum: 39dda40f513ad61178b229ec79fe0669
+SHA1: 679126b64908550b3556f7c71739e9fdb9c8f185
+SHA256: 1103b8be2e2a9fc4bf20507f9a47d35a5c07faf7a20c0645d8c93fb1ce018217
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: High performance, open source, general RPC framework - runtime
+ gRPC is a modern, open source, high-performance remote procedure call (RPC)
+ framework that can run anywhere.  This package contains the shared libraries.
+ .
+ This package provides the gRPC C bindings.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libgrpc++
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: amd64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 1965
+Depends: libabsl20230802t64 (>= 1:1.59.3-nureva2), libc6 (>= 2.32), libgcc-s1, libgrpc (>= 1:1.59.3-nureva2), libstdc++6 (>= 13.1)
+Filename: ./libgrpc++_1.59.3-nureva2_amd64.deb
+Size: 465668
+MD5sum: 1c64421fa60a9658e1ccbffb42e22f98
+SHA1: 8830f6e5488c3209e76fa27082085192f344fa9a
+SHA256: 0c31520e7ecfd7ca988715a4b336bf82732897ac93bb01e2333a51f2d9dbb5d8
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: high performance general RPC framework
+ A modern, open source remote procedure call (RPC) framework that can
+ run anywhere. It enables client and server applications to communicate
+ transparently, and makes it easier to build connected systems.
+ .
+ This package provides the gRPC C++ bindings.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libgrpc++
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: arm64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 2163
+Depends: libabsl20230802t64 (>= 1:1.59.3-nureva2), libc6:arm64 (>= 2.39), libgcc-s1, libgrpc (>= 1:1.59.3-nureva2), libstdc++6:arm64
+Filename: ./libgrpc++_1.59.3-nureva2_arm64.deb
+Size: 447784
+MD5sum: 217fddac2e6ec5032eaeadd4fb35be69
+SHA1: 980370207e66090ad1fb3c9e8e03f9ad204fa5ab
+SHA256: 93dc4593092353d5de9efcb7fff1c84329c2ea1e311c7ac66ba5c17aff00a6a9
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: high performance general RPC framework
+ A modern, open source remote procedure call (RPC) framework that can
+ run anywhere. It enables client and server applications to communicate
+ transparently, and makes it easier to build connected systems.
+ .
+ This package provides the gRPC C++ bindings.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libgrpc++-dev
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: arm64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 6770
+Depends: libgrpc++ (= 1:1.59.3-nureva2), libgrpc-dev (= 1:1.59.3-nureva2)
+Filename: ./libgrpc++-dev_1.59.3-nureva2_arm64.deb
+Size: 657660
+MD5sum: 12c292d2954c38838f2bac2e5a19a5b7
+SHA1: aa2ac086d6a7b80faa3c31c301b6d5763e168f75
+SHA256: 5004da0cb51cc391b4e272fb165159505fd0b5c1be0624397772f1863de1048a
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: high performance general RPC framework (development)
+ A modern, open source remote procedure call (RPC) framework that can
+ run anywhere. It enables client and server applications to communicate
+ transparently, and makes it easier to build connected systems.
+ .
+ This package contains the headers and the static library for libgrpc++.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libgrpc++-dev
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: amd64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 77378
+Depends: libgrpc++ (= 1:1.59.3-nureva2), libgrpc-dev (= 1:1.59.3-nureva2)
+Filename: ./libgrpc++-dev_1.59.3-nureva2_amd64.deb
+Size: 14237200
+MD5sum: b2127b5f5c73799ac30b37c0c4a3150f
+SHA1: 44075d8d80846693e8e15706e5a0c9539f56f96b
+SHA256: d06fb5e3d35bd944149507a335cdfb37733e7d7323a8c4f64a7a06e751d1e812
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: high performance general RPC framework (development)
+ A modern, open source remote procedure call (RPC) framework that can
+ run anywhere. It enables client and server applications to communicate
+ transparently, and makes it easier to build connected systems.
+ .
+ This package contains the headers and the static library for libgrpc++.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libgrpc-dev
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: amd64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 24542
+Depends: libabsl-dev (= 1:1.59.3-nureva2), libgrpc (= 1:1.59.3-nureva2)
+Filename: ./libgrpc-dev_1.59.3-nureva2_amd64.deb
+Size: 3678914
+MD5sum: 3fc9fd3407f4935c4c9108b0422f1ff3
+SHA1: a396e0cac33d37193e111ec53447c4fe32e5b53e
+SHA256: ddacf8dd3e58d7e05be2fdbda9b08558f21eb674e0e9b0fbe65e610c09f9c81d
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: High performance, open source, general RPC framework - development files
+ gRPC is a modern, open source, high-performance remote procedure call (RPC)
+ framework that can run anywhere.  This package contains the header files and
+ static libraries.
+ .
+ This package contains the headers and the static library for libgrpc.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: libgrpc-dev
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: arm64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 25071
+Depends: libabsl-dev (= 1:1.59.3-nureva2), libgrpc (= 1:1.59.3-nureva2)
+Filename: ./libgrpc-dev_1.59.3-nureva2_arm64.deb
+Size: 3685990
+MD5sum: 9c21a81019bd05a75e9536a9370be93f
+SHA1: eb310aa07ad48fbb7564e2dafc395f459c0f1601
+SHA256: 57bcac6bb269b593c5bfb7774bb4cef4553e20128778c109c73dcbf8ed3de8e7
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: https://grpc.io
+Description: High performance, open source, general RPC framework - development files
+ gRPC is a modern, open source, high-performance remote procedure call (RPC)
+ framework that can run anywhere.  This package contains the header files and
+ static libraries.
+ .
+ This package contains the headers and the static library for libgrpc.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: protobuf-compiler-grpc
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: amd64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 289
+Depends: libgrpc (= 1:1.59.3-nureva2), protobuf-compiler, libabsl20230802t64 (>= 1:1.59.3-nureva2), libc6 (>= 2.38), libgcc-s1, libstdc++6 (>= 13.1)
+Filename: ./protobuf-compiler-grpc_1.59.3-nureva2_amd64.deb
+Size: 68104
+MD5sum: 32db8999906b5d41a28c26a8e7b87f2c
+SHA1: 1cdc59be2fc0694e5ea739474e3e963f725c0fe8
+SHA256: c5af5315961ed1e188e5b4a3230ebc79d2d62b63e1bc4cd116bd8445ed89411c
+Section: devel
+Priority: optional
+Homepage: https://grpc.io
+Description: high performance general RPC framework - protocol compiler plugin
+ The gRPC protocol compiler plugin generates code for gRPC services from
+ Protocol Buffers definitions.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+
+Package: protobuf-compiler-grpc
+Source: grpc
+Version: 1:1.59.3-nureva2
+Architecture: arm64
+Maintainer: Sean Boyden <seanboyden@nureva.com>
+Installed-Size: 541
+Depends: libgrpc (= 1:1.59.3-nureva2), protobuf-compiler, libabsl20230802t64 (>= 1:1.59.3-nureva2), libc6:arm64 (>= 2.39), libgcc-s1, libstdc++6:arm64
+Filename: ./protobuf-compiler-grpc_1.59.3-nureva2_arm64.deb
+Size: 61686
+MD5sum: a519f46a5e6833a072d34ccccc75b5b0
+SHA1: 6b99a894e15d15d29d326ee5e2b6f26c4b224e4c
+SHA256: 7fc2a586da9a0d47b5c542936a54e9e399cfc31ed890964275ea3d43a13bc8f0
+Section: devel
+Priority: optional
+Homepage: https://grpc.io
+Description: high performance general RPC framework - protocol compiler plugin
+ The gRPC protocol compiler plugin generates code for gRPC services from
+ Protocol Buffers definitions.
+Original-Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+

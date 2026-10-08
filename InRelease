@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Thu, 08 Oct 2026 21:25:53 +0000
+MD5Sum:
+ 36952fc7c7259ad338f0286944fb319a            12372 Packages
+ 9e84249339d98189961a671ac6db0325             2576 Packages.gz
+ 3e8c6f392b81acdf9569d33be27d8d6f               38 Release
+SHA1:
+ d54bda982fa334939d51f849b2a507b34fb16394            12372 Packages
+ 7388141f71e6b808f9a7e1acf864c02130aff238             2576 Packages.gz
+ 37f6d0bb0454e9e00f4cc231a3e3ad9dba9ad0b9               38 Release
+SHA256:
+ 809d65534f78b4f1539ffbc48feb8b8e799fcad7822dff6d6edf6c6d3f96d746            12372 Packages
+ 381939c51fb28ef02819233b5c800b300a0d63c9cee9d0b029f09a5a3a68daab             2576 Packages.gz
+ 51174de7210008d11506a8b70aff4adab6907ee77a8a64d98dee5522e1e0c303               38 Release
+SHA512:
+ ff6ca1cfa1ea06c3f0fbcdd48331e6db092d4d3f73abf93a6faf00590b1bfa246d73e9267042b23915011f7f7c7d7cd593dccadd5f3b5ae22754225312263c4c            12372 Packages
+ acb3e175e32b1d2c1ff0181ea1ab4eba3d6caa2210996e9c8e406b8e045d2daeac6406d5b535328fe61fd8d5f605a45cb03bfb903f39f2d08f4095c52edbbab8             2576 Packages.gz
+ d9efb4ff2f2a6b5af27a0ac0ffbbff564987d2836dc1ed1890effca8932d90b4fb2930f2cb51c0cb8e35af17f43a381588ee6112d609652e81391ce357078f85               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJOBAEBCgA4FiEEj+7fgPNITP6Z470dQWkyhG8dNxgFAmrIC2kaHGdwZy1naXRo
+dWItcHBhQG51cmV2YS5jb20ACgkQQWkyhG8dNxi5wg/7BUnbkqD5p22C54lNn8an
+RtxSar/mFg87oY7nSvIrilWwMCwt1G3T6NnXremtjGw+p9CDdZz8/qH0P9w42FUr
+hh7dni9TJoqUFCF735J/gO06ysTUrpSaCl95EsPbkM2q0d9rSXivk5uHxsxct2yd
+IA94j31yl7Yp/jB2H8s2MDKMYplF4hncmWsftWtiAw5XupZ63/SOXVotyPLW24Is
+0bJC48T8yoJgO5k6zRat6tLAX+UU95HBJeHP9/UijZaRE96pGxPgyXAbLg0/T0hT
+budeRLAMuHwZhVlGhYHytfQ07bwcZ7TEV2m3928DjdKEGdrB+kJo9mBR3MqGGuip
+YLOY6C08Ym2AIbbfMa63viYzlpIcO6csIVifqO9H4bmuyRUY2U344+FQ9x12vYsw
+vXRVAE0C9ZG8lD31VvPljT7EY0jXIfgw2PpYbF+X4xgYccD+Z2EhzknpXlPmniTt
+NtwIk8ssHJUQrfbAsbbzE6ALJ4aqqMZdEM7hLly0IZc/JZ9yXL5RcVG0/2i/91y5
+/U2wwbZikoTbKLPaGtl3tjD8UVj8kZDDbxDjCDmv+OpCN5tSkm/vN98kMVeVqTMm
+25o/Quid1boSdBbvjpakNIbMpSgqdIbrMqUL60EKMlQ1O7Qo/jSsg4v/VwXag42j
+dsixej/6ruxe8gvfrXVjmtY=
+=52va
+-----END PGP SIGNATURE-----
